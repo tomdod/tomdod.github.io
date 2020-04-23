@@ -26,7 +26,7 @@ body {
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Baloo Paaji 2", sans-serif;
   font-size: 1rem;
   font-weight: 300;
   line-height: 1.5;
@@ -2021,7 +2021,7 @@ h6, .h6 {
   position: absolute;
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 900px) {
   .hero-section__option img {
     position: static;
     max-width: 100%;
