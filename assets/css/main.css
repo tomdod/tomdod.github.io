@@ -2021,7 +2021,7 @@ h6, .h6 {
   position: absolute;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 1050px) {
   .hero-section__option img {
     position: static;
     max-width: 100%;
