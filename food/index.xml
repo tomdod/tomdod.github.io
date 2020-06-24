@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TomDodd</title>
+    <link>https://tomdod.github.io/food/</link>
+    <description>Recent content on TomDodd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Mar 2020 16:46:27 +0200</lastBuildDate>
+    
+	<atom:link href="https://tomdod.github.io/food/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crumble</title>
+      <link>https://tomdod.github.io/food/crumble/</link>
+      <pubDate>Sat, 28 Mar 2020 16:46:27 +0200</pubDate>
+      
+      <guid>https://tomdod.github.io/food/crumble/</guid>
+      <description>I need to write how to make crumble!</description>
+    </item>
+    
+    <item>
+      <title>Broccoli and Gorgonzola pie</title>
+      <link>https://tomdod.github.io/food/broccoli_pie/</link>
+      <pubDate>Fri, 28 Feb 2020 16:46:27 +0200</pubDate>
+      
+      <guid>https://tomdod.github.io/food/broccoli_pie/</guid>
+      <description>Broccoli and Gorgonzola pie</description>
+    </item>
+    
+    <item>
+      <title>Olio E Aglio</title>
+      <link>https://tomdod.github.io/food/olioeaglio/</link>
+      <pubDate>Tue, 28 Jan 2020 16:46:27 +0200</pubDate>
+      
+      <guid>https://tomdod.github.io/food/olioeaglio/</guid>
+      <description>Put oil and garlic in a cold pan and sit back and admire it.</description>
+    </item>
+    
+    <item>
+      <title>Risotto</title>
+      <link>https://tomdod.github.io/food/risotto/</link>
+      <pubDate>Sun, 28 Apr 2019 16:46:27 +0200</pubDate>
+      
+      <guid>https://tomdod.github.io/food/risotto/</guid>
+      <description>For 2 portions:
+ 1/4 onion 1/3 carrot 1 glass wine 8 handfuls rice 1 litre veg stock 1 knob butter Parmesan (lots)  1/ Heat oil in pan. Finely chop onion and carrot (no garlicl). Heat oil in pan and cook until soft.
+2/ Add rice and cook until seethrough-ish.
+3/ Add wine, cook until it&amp;rsquo;s all absorbed.
+4/ Add stock 1 spoon at a tine, constantly stirring. Add veg (mushrooms, asparagus etc.</description>
+    </item>
+    
+  </channel>
+</rss>

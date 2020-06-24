@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>yummmm on TomDodd</title>
+    <link>https://tomdod.github.io/food/tags/yummmm/</link>
+    <description>Recent content in yummmm on TomDodd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2020 16:46:27 +0200</lastBuildDate>
+    
+	<atom:link href="https://tomdod.github.io/food/tags/yummmm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Olio E Aglio</title>
+      <link>https://tomdod.github.io/food/olioeaglio/</link>
+      <pubDate>Tue, 28 Jan 2020 16:46:27 +0200</pubDate>
+      
+      <guid>https://tomdod.github.io/food/olioeaglio/</guid>
+      <description>Put oil and garlic in a cold pan and sit back and admire it.</description>
+    </item>
+    
+  </channel>
+</rss>
